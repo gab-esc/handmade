@@ -1,0 +1,19 @@
+// raddbg 0.9.24 project file
+
+recent_file: path: "../code/win32_handmade.cpp"
+target:
+{
+  executable: "../../build/win32_handmade.exe"
+  working_directory: "../../build"
+  enabled: 1
+}
+debug_info:
+{
+  path: "C:/work/build/win32_handmade.pdb"
+  timestamp: 66204875249292
+}
+debug_info:
+{
+  path: "w:/build/win32_handmade.pdb"
+  timestamp: 66204874723646
+}
